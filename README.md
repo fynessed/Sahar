@@ -1,6 +1,6 @@
 # Sahar
 Downloads:	https://github.com/fynessed/Sahar/releases <br>
-Discord:	https://discord.gg/D9sntQUrUE
+Discord:	Discord was deleted due to members just joining and leaving. Message clickings on discord if you think we should reopen a discord for support.
 <br> <br>
 
 # Disclaimer
