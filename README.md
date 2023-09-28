@@ -1,6 +1,6 @@
 # Sahar
 Downloads:	https://github.com/fynessed/Sahar/releases <br>
-Discord:	Discord was deleted due to members just joining and leaving. Message clickings on discord if you think we should reopen a discord for support.
+Not sure if people still play this game so the latest release may the the last release of the Sahar Client. (As of 29.09.23)
 <br> <br>
 
 # Disclaimer
